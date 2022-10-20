@@ -1,3 +1,9 @@
+
+# This repo is archived. Please note that Liferay 6.2 CE, being before the current 7.4, is almost certainly beyond both the Premium and Limited Support phases and so is end of life and should be upgraded or decommissioned as soon as possible
+# https://www.liferay.com/en-AU/subscription-services/end-of-life/liferay-dxp
+
+
+
 liferay-sample-ddl-sort-example
 ===============================
 
